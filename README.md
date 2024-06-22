@@ -11,8 +11,6 @@ This project consists of an assembler and simulator for a simple instruction set
   - [Installation](#installation)
   - [Usage](#usage)
 - [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This project is designed to provide a basic understanding of low-level programming, instruction sets, and computer architecture. It includes an assembler to convert assembly code into machine code and a simulator to execute the machine code instructions.
